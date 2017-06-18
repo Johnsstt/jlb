@@ -1,5 +1,5 @@
 {
-  "name": "jlb",
+  "name": "jlb-cli",
   "version": "2.8.2",
   "description": "A simple CLI for scaffolding Vue.js projects.",
   "preferGlobal": true,
@@ -19,7 +19,7 @@
     "spa"
   ],
   "author": {
-    "name": "Johnsstt",
+    "name": "johnst",
     "email": "john_tech@163.com",
     "url": "https://github.com/Johnsstt"
   },

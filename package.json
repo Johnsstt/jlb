@@ -18,7 +18,11 @@
     "cli",
     "spa"
   ],
-  "author": "Evan You",
+  "author": {
+    "name": "Johnsstt",
+    "email": "john_tech@163.com",
+    "url": "https://github.com/Johnsstt"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Johnsstt/jlb/issues"

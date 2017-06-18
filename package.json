@@ -1,6 +1,6 @@
 {
   "name": "jlb-cli",
-  "version": "2.8.2",
+  "version": "1.0.0",
   "description": "A simple CLI for scaffolding Vue.js projects.",
   "preferGlobal": true,
   "bin": {
@@ -19,7 +19,7 @@
     "spa"
   ],
   "author": {
-    "name": "johnst",
+    "name": "johnsstt",
     "email": "john_tech@163.com",
     "url": "https://github.com/Johnsstt"
   },
